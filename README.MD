@@ -11,7 +11,7 @@ A simple command-line Expense Tracker written in Python. This project allows use
 
 ## 🚀 How to Run
 ```bash
-python expense_tracker.py
+python main.py
 ```
 
 ## 🧪 Example Interaction
